@@ -1,4 +1,4 @@
-##  🔌 **Smart  Switch  –  Wi-Fi Based Home Automation**
+##    🔌 **Smart  Switch  –  Wi-Fi Based Home Automation**
 
 <p align="center">
   <img src="images/banner.png" width="80%" alt="Smart Switch Banner"/>
