@@ -1,4 +1,4 @@
-# 🔌 **Smart Switch – Wi-Fi Based Home Automation**
+# 🔌 **  Smart  Switch  –  Wi-Fi Based Home Automation**
 
 <p align="center">
   <img src="images/banner.png" width="80%" alt="Smart Switch Banner"/>
@@ -99,9 +99,6 @@ AC Neutral --------------------------> Appliance
 images/circuit_diagram.png
 ```
 
-(If you want, I can generate a real circuit image for you.)
-
----
 
 # 🔄 **Flowchart**
 
@@ -200,12 +197,7 @@ Click **ON** / **OFF** buttons.
 
 ```
 images/web-ui.png
-images/device.jpg
 ```
-
-(Just upload and the README will show them automatically.)
-
----
 
 # 🔮 **Upcoming Improvements**
 
